@@ -70,7 +70,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser if
 The page will reload if you make edits.<br />
 ## Data Acquisition Code
 
-You can find the code for the Data Acquisition Code of the ESP [here](files/IoTDataAcquisitionCode.md)
+You can find the code for the Data Acquisition Code of the ESP [here](https://github.com/High-Stakes-UPRM/HighStakes/blob/master/files/IoTDataAcquisitionCode.md)
 
 
 
